@@ -1,0 +1,21 @@
+{
+  "name": "backend-socket",
+  "version": "1.0.2",
+  "description": "This package helps you easily spin up a web socket connection in your node js backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "realtime",
+    "websocket",
+    "socket",
+    "ws"
+  ],
+  "author": "flawlesscode254",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {}
+}
