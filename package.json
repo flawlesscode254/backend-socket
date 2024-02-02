@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "This package helps you easily spin up a web socket connection in your node js backend",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/flawlesscode254/backend-socket"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
